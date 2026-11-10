@@ -1,0 +1,601 @@
+text,brand,date,location,clean_text,sentiment_score,sentiment
+Amazon is setting the standard again.,Amazon,04-01-2025,Germany,amazon setting standard,0.1779,Positive
+No strong feelings about Microsoft either way.,Microsoft,20-05-2025,Germany,no strong feelings microsoft either way,0.2732,Positive
+Apple announced a new product today.,Apple,28-06-2025,UK,apple announced new product today,0.0,Neutral
+Nike's product broke after a week.,Nike,27-01-2025,USA,nikes product broke week,-0.4215,Negative
+Tesla announced a new product today.,Tesla,04-10-2024,UK,tesla announced new product today,0.0,Neutral
+I love the new Apple product!,Apple,23-03-2025,Australia,love new apple product,0.6369,Positive
+There's a lot of buzz around Microsoft.,Microsoft,09-01-2025,Australia,theres lot buzz around microsoft,0.0,Neutral
+Not buying from Coca-Cola again.,Coca-Cola,25-04-2025,Germany,not buying cocacola,0.0,Neutral
+Another great innovation by Coca-Cola!,Coca-Cola,12-03-2025,Canada,another great innovation cocacola,0.7717,Positive
+Very disappointed with Microsoft this time.,Microsoft,10-10-2024,USA,disappointed microsoft time,-0.4767,Negative
+Very disappointed with Nike this time.,Nike,08-12-2024,Canada,disappointed nike time,-0.4767,Negative
+Nike announced a new product today.,Nike,20-10-2024,USA,nike announced new product today,0.0,Neutral
+Adidas is setting the standard again.,Adidas,04-05-2025,Canada,adidas setting standard,0.0,Neutral
+Not buying from Apple again.,Apple,13-08-2024,Germany,not buying apple,0.0,Neutral
+Amazon needs to do better.,Amazon,18-02-2025,Canada,amazon needs better,0.5574,Positive
+I love the new Tesla product!,Tesla,27-07-2024,UK,love new tesla product,0.6369,Positive
+I love the new Tesla product!,Tesla,09-04-2025,USA,love new tesla product,0.6369,Positive
+Terrible experience with Apple.,Apple,03-04-2025,UK,terrible experience apple,-0.4767,Negative
+Coca-Cola is setting the standard again.,Coca-Cola,24-04-2025,Germany,cocacola setting standard,0.0,Neutral
+I love the new Adidas product!,Adidas,25-07-2025,Canada,love new adidas product,0.6369,Positive
+Microsoft is setting the standard again.,Microsoft,27-11-2024,Canada,microsoft setting standard,0.0,Neutral
+I love the new Amazon product!,Amazon,29-04-2025,Canada,love new amazon product,0.7096,Positive
+Microsoft remains a popular choice.,Microsoft,21-09-2024,UK,microsoft remains popular choice,0.4215,Positive
+No strong feelings about Samsung either way.,Samsung,20-02-2025,UK,no strong feelings samsung either way,0.2732,Positive
+Amazing experience using Nike's latest release.,Nike,30-10-2024,Australia,amazing experience using nikes latest release,0.5859,Positive
+I love the new Adidas product!,Adidas,30-01-2025,Germany,love new adidas product,0.6369,Positive
+Hearing mixed reviews about Tesla.,Tesla,20-08-2024,UK,hearing mixed reviews tesla,0.0,Neutral
+Not buying from Samsung again.,Samsung,01-11-2024,Germany,not buying samsung,0.0,Neutral
+Amazon announced a new product today.,Amazon,30-05-2025,UK,amazon announced new product today,0.1779,Positive
+Adidas needs to do better.,Adidas,12-09-2024,Australia,adidas needs better,0.4404,Positive
+Amazon announced a new product today.,Amazon,01-12-2024,UK,amazon announced new product today,0.1779,Positive
+Hearing mixed reviews about Adidas.,Adidas,15-06-2025,Canada,hearing mixed reviews adidas,0.0,Neutral
+Amazing experience using Nike's latest release.,Nike,30-01-2025,Australia,amazing experience using nikes latest release,0.5859,Positive
+No strong feelings about Microsoft either way.,Microsoft,11-06-2025,UK,no strong feelings microsoft either way,0.2732,Positive
+Amazon needs to do better.,Amazon,04-01-2025,Australia,amazon needs better,0.5574,Positive
+Samsung is setting the standard again.,Samsung,16-01-2025,Germany,samsung setting standard,0.0,Neutral
+Amazing experience using Apple's latest release.,Apple,19-01-2025,Australia,amazing experience using apples latest release,0.5859,Positive
+I love the new Coca-Cola product!,Coca-Cola,05-07-2025,Canada,love new cocacola product,0.6369,Positive
+Coca-Cola needs to do better.,Coca-Cola,07-09-2024,USA,cocacola needs better,0.4404,Positive
+Tesla's product broke after a week.,Tesla,19-05-2025,USA,teslas product broke week,-0.4215,Negative
+I love the new Amazon product!,Amazon,13-01-2025,Australia,love new amazon product,0.7096,Positive
+Terrible experience with Amazon.,Amazon,20-02-2025,USA,terrible experience amazon,-0.34,Negative
+Hearing mixed reviews about Coca-Cola.,Coca-Cola,10-08-2024,Germany,hearing mixed reviews cocacola,0.0,Neutral
+I love the new Adidas product!,Adidas,15-04-2025,Germany,love new adidas product,0.6369,Positive
+Amazing experience using Apple's latest release.,Apple,30-03-2025,USA,amazing experience using apples latest release,0.5859,Positive
+Coca-Cola needs to do better.,Coca-Cola,22-02-2025,Germany,cocacola needs better,0.4404,Positive
+Hearing mixed reviews about Coca-Cola.,Coca-Cola,02-02-2025,Germany,hearing mixed reviews cocacola,0.0,Neutral
+Adidas is setting the standard again.,Adidas,28-11-2024,Canada,adidas setting standard,0.0,Neutral
+Very disappointed with Coca-Cola this time.,Coca-Cola,10-10-2024,Germany,disappointed cocacola time,-0.4767,Negative
+Coca-Cola's product broke after a week.,Coca-Cola,12-05-2025,UK,cocacolas product broke week,-0.4215,Negative
+Apple announced a new product today.,Apple,18-01-2025,Canada,apple announced new product today,0.0,Neutral
+Very disappointed with Samsung this time.,Samsung,24-07-2025,Canada,disappointed samsung time,-0.4767,Negative
+Hearing mixed reviews about Apple.,Apple,13-09-2024,Germany,hearing mixed reviews apple,0.0,Neutral
+Microsoft is setting the standard again.,Microsoft,17-12-2024,UK,microsoft setting standard,0.0,Neutral
+I love the new Tesla product!,Tesla,16-01-2025,UK,love new tesla product,0.6369,Positive
+Samsung is setting the standard again.,Samsung,02-02-2025,Canada,samsung setting standard,0.0,Neutral
+Adidas's product broke after a week.,Adidas,09-04-2025,USA,adidass product broke week,-0.4215,Negative
+Very disappointed with Nike this time.,Nike,13-05-2025,UK,disappointed nike time,-0.4767,Negative
+I love the new Microsoft product!,Microsoft,10-04-2025,Australia,love new microsoft product,0.6369,Positive
+Amazon really impressed me with their service.,Amazon,01-04-2025,Germany,amazon really impressed service,0.624,Positive
+Amazing experience using Microsoft's latest release.,Microsoft,01-02-2025,Germany,amazing experience using microsofts latest release,0.5859,Positive
+Terrible experience with Amazon.,Amazon,30-03-2025,Australia,terrible experience amazon,-0.34,Negative
+Not buying from Coca-Cola again.,Coca-Cola,12-11-2024,Australia,not buying cocacola,0.0,Neutral
+Amazing experience using Nike's latest release.,Nike,04-11-2024,Germany,amazing experience using nikes latest release,0.5859,Positive
+Amazing experience using Apple's latest release.,Apple,20-06-2025,Australia,amazing experience using apples latest release,0.5859,Positive
+There's a lot of buzz around Coca-Cola.,Coca-Cola,23-05-2025,Germany,theres lot buzz around cocacola,0.0,Neutral
+Amazing experience using Samsung's latest release.,Samsung,29-09-2024,USA,amazing experience using samsungs latest release,0.5859,Positive
+No strong feelings about Adidas either way.,Adidas,11-04-2025,USA,no strong feelings adidas either way,0.2732,Positive
+Tesla remains a popular choice.,Tesla,05-07-2025,Australia,tesla remains popular choice,0.4215,Positive
+Coca-Cola remains a popular choice.,Coca-Cola,24-06-2025,Australia,cocacola remains popular choice,0.4215,Positive
+No strong feelings about Adidas either way.,Adidas,18-05-2025,Canada,no strong feelings adidas either way,0.2732,Positive
+Tesla remains a popular choice.,Tesla,16-06-2025,UK,tesla remains popular choice,0.4215,Positive
+Amazing experience using Amazon's latest release.,Amazon,06-10-2024,USA,amazing experience using amazons latest release,0.5719,Positive
+Very disappointed with Adidas this time.,Adidas,16-09-2024,Canada,disappointed adidas time,-0.4767,Negative
+Not buying from Adidas again.,Adidas,17-12-2024,Canada,not buying adidas,0.0,Neutral
+Not buying from Apple again.,Apple,14-07-2025,UK,not buying apple,0.0,Neutral
+I love the new Adidas product!,Adidas,22-06-2025,Australia,love new adidas product,0.6369,Positive
+Not buying from Microsoft again.,Microsoft,24-11-2024,USA,not buying microsoft,0.0,Neutral
+No strong feelings about Amazon either way.,Amazon,05-12-2024,Germany,no strong feelings amazon either way,0.4215,Positive
+Adidas remains a popular choice.,Adidas,13-04-2025,USA,adidas remains popular choice,0.4215,Positive
+Terrible experience with Apple.,Apple,24-09-2024,USA,terrible experience apple,-0.4767,Negative
+Not buying from Microsoft again.,Microsoft,22-07-2025,Canada,not buying microsoft,0.0,Neutral
+Very disappointed with Nike this time.,Nike,05-05-2025,Germany,disappointed nike time,-0.4767,Negative
+Terrible experience with Nike.,Nike,16-11-2024,Germany,terrible experience nike,-0.4767,Negative
+Another great innovation by Coca-Cola!,Coca-Cola,27-02-2025,Canada,another great innovation cocacola,0.7717,Positive
+Apple announced a new product today.,Apple,12-05-2025,Canada,apple announced new product today,0.0,Neutral
+Not buying from Amazon again.,Amazon,22-10-2024,Germany,not buying amazon,-0.1326,Negative
+I love the new Microsoft product!,Microsoft,16-08-2024,Canada,love new microsoft product,0.6369,Positive
+Very disappointed with Microsoft this time.,Microsoft,14-09-2024,Germany,disappointed microsoft time,-0.4767,Negative
+I love the new Coca-Cola product!,Coca-Cola,24-03-2025,Germany,love new cocacola product,0.6369,Positive
+Apple's product broke after a week.,Apple,26-02-2025,UK,apples product broke week,-0.4215,Negative
+Another great innovation by Coca-Cola!,Coca-Cola,22-04-2025,USA,another great innovation cocacola,0.7717,Positive
+No strong feelings about Samsung either way.,Samsung,20-08-2024,Canada,no strong feelings samsung either way,0.2732,Positive
+Apple is setting the standard again.,Apple,16-12-2024,Canada,apple setting standard,0.0,Neutral
+Apple's product broke after a week.,Apple,28-03-2025,Australia,apples product broke week,-0.4215,Negative
+There's a lot of buzz around Coca-Cola.,Coca-Cola,29-11-2024,USA,theres lot buzz around cocacola,0.0,Neutral
+Amazon announced a new product today.,Amazon,09-07-2025,USA,amazon announced new product today,0.1779,Positive
+Nike's product broke after a week.,Nike,21-08-2024,Germany,nikes product broke week,-0.4215,Negative
+Hearing mixed reviews about Tesla.,Tesla,05-12-2024,Australia,hearing mixed reviews tesla,0.0,Neutral
+Amazon announced a new product today.,Amazon,30-01-2025,Canada,amazon announced new product today,0.1779,Positive
+Samsung is setting the standard again.,Samsung,02-01-2025,Germany,samsung setting standard,0.0,Neutral
+No strong feelings about Adidas either way.,Adidas,06-09-2024,Australia,no strong feelings adidas either way,0.2732,Positive
+Another great innovation by Tesla!,Tesla,30-12-2024,Canada,another great innovation tesla,0.7717,Positive
+Coca-Cola needs to do better.,Coca-Cola,24-11-2024,Germany,cocacola needs better,0.4404,Positive
+Adidas really impressed me with their service.,Adidas,25-02-2025,Australia,adidas really impressed service,0.5256,Positive
+No strong feelings about Apple either way.,Apple,02-04-2025,UK,no strong feelings apple either way,0.2732,Positive
+There's a lot of buzz around Apple.,Apple,30-12-2024,USA,theres lot buzz around apple,0.0,Neutral
+No strong feelings about Samsung either way.,Samsung,05-01-2025,Canada,no strong feelings samsung either way,0.2732,Positive
+No strong feelings about Amazon either way.,Amazon,02-01-2025,Australia,no strong feelings amazon either way,0.4215,Positive
+No strong feelings about Coca-Cola either way.,Coca-Cola,06-02-2025,USA,no strong feelings cocacola either way,0.2732,Positive
+Amazing experience using Microsoft's latest release.,Microsoft,30-08-2024,UK,amazing experience using microsofts latest release,0.5859,Positive
+Tesla needs to do better.,Tesla,06-10-2024,Germany,tesla needs better,0.4404,Positive
+Coca-Cola really impressed me with their service.,Coca-Cola,21-12-2024,Canada,cocacola really impressed service,0.5256,Positive
+Amazing experience using Apple's latest release.,Apple,18-06-2025,Germany,amazing experience using apples latest release,0.5859,Positive
+Not buying from Apple again.,Apple,20-11-2024,USA,not buying apple,0.0,Neutral
+Another great innovation by Apple!,Apple,06-09-2024,Germany,another great innovation apple,0.7717,Positive
+Apple's product broke after a week.,Apple,16-02-2025,Canada,apples product broke week,-0.4215,Negative
+Tesla remains a popular choice.,Tesla,19-03-2025,Germany,tesla remains popular choice,0.4215,Positive
+Very disappointed with Nike this time.,Nike,27-05-2025,UK,disappointed nike time,-0.4767,Negative
+Not buying from Microsoft again.,Microsoft,20-04-2025,Canada,not buying microsoft,0.0,Neutral
+Hearing mixed reviews about Nike.,Nike,12-11-2024,USA,hearing mixed reviews nike,0.0,Neutral
+No strong feelings about Adidas either way.,Adidas,03-11-2024,USA,no strong feelings adidas either way,0.2732,Positive
+Microsoft remains a popular choice.,Microsoft,10-05-2025,USA,microsoft remains popular choice,0.4215,Positive
+Nike's product broke after a week.,Nike,04-11-2024,UK,nikes product broke week,-0.4215,Negative
+Tesla remains a popular choice.,Tesla,31-03-2025,Germany,tesla remains popular choice,0.4215,Positive
+There's a lot of buzz around Amazon.,Amazon,15-05-2025,Australia,theres lot buzz around amazon,0.1779,Positive
+Terrible experience with Adidas.,Adidas,27-11-2024,Australia,terrible experience adidas,-0.4767,Negative
+Microsoft announced a new product today.,Microsoft,12-12-2024,UK,microsoft announced new product today,0.0,Neutral
+Tesla needs to do better.,Tesla,14-01-2025,Germany,tesla needs better,0.4404,Positive
+Samsung remains a popular choice.,Samsung,20-08-2024,Australia,samsung remains popular choice,0.4215,Positive
+Terrible experience with Microsoft.,Microsoft,07-02-2025,Australia,terrible experience microsoft,-0.4767,Negative
+Nike really impressed me with their service.,Nike,27-07-2024,Australia,nike really impressed service,0.5256,Positive
+Terrible experience with Samsung.,Samsung,09-05-2025,UK,terrible experience samsung,-0.4767,Negative
+Not buying from Samsung again.,Samsung,06-02-2025,Canada,not buying samsung,0.0,Neutral
+Amazing experience using Samsung's latest release.,Samsung,20-12-2024,Australia,amazing experience using samsungs latest release,0.5859,Positive
+No strong feelings about Coca-Cola either way.,Coca-Cola,27-03-2025,Canada,no strong feelings cocacola either way,0.2732,Positive
+Amazon remains a popular choice.,Amazon,20-02-2025,Canada,amazon remains popular choice,0.5423,Positive
+There's a lot of buzz around Microsoft.,Microsoft,28-10-2024,Australia,theres lot buzz around microsoft,0.0,Neutral
+Coca-Cola really impressed me with their service.,Coca-Cola,21-07-2025,UK,cocacola really impressed service,0.5256,Positive
+Adidas announced a new product today.,Adidas,24-08-2024,Australia,adidas announced new product today,0.0,Neutral
+Apple remains a popular choice.,Apple,21-06-2025,Germany,apple remains popular choice,0.4215,Positive
+Very disappointed with Microsoft this time.,Microsoft,10-04-2025,Canada,disappointed microsoft time,-0.4767,Negative
+Terrible experience with Apple.,Apple,19-11-2024,Canada,terrible experience apple,-0.4767,Negative
+Hearing mixed reviews about Coca-Cola.,Coca-Cola,07-06-2025,Australia,hearing mixed reviews cocacola,0.0,Neutral
+Tesla's product broke after a week.,Tesla,25-09-2024,Australia,teslas product broke week,-0.4215,Negative
+Apple remains a popular choice.,Apple,29-03-2025,UK,apple remains popular choice,0.4215,Positive
+Very disappointed with Coca-Cola this time.,Coca-Cola,02-06-2025,Germany,disappointed cocacola time,-0.4767,Negative
+Terrible experience with Coca-Cola.,Coca-Cola,14-12-2024,Canada,terrible experience cocacola,-0.4767,Negative
+Samsung announced a new product today.,Samsung,04-05-2025,USA,samsung announced new product today,0.0,Neutral
+Coca-Cola's product broke after a week.,Coca-Cola,09-11-2024,Germany,cocacolas product broke week,-0.4215,Negative
+Amazon needs to do better.,Amazon,10-09-2024,USA,amazon needs better,0.5574,Positive
+No strong feelings about Tesla either way.,Tesla,16-04-2025,Germany,no strong feelings tesla either way,0.2732,Positive
+I love the new Tesla product!,Tesla,05-09-2024,USA,love new tesla product,0.6369,Positive
+Another great innovation by Microsoft!,Microsoft,17-05-2025,Canada,another great innovation microsoft,0.7717,Positive
+Microsoft is setting the standard again.,Microsoft,16-04-2025,Canada,microsoft setting standard,0.0,Neutral
+Amazing experience using Apple's latest release.,Apple,08-08-2024,USA,amazing experience using apples latest release,0.5859,Positive
+Hearing mixed reviews about Microsoft.,Microsoft,10-01-2025,USA,hearing mixed reviews microsoft,0.0,Neutral
+Tesla announced a new product today.,Tesla,24-10-2024,USA,tesla announced new product today,0.0,Neutral
+Microsoft is setting the standard again.,Microsoft,28-05-2025,UK,microsoft setting standard,0.0,Neutral
+Nike's product broke after a week.,Nike,28-09-2024,USA,nikes product broke week,-0.4215,Negative
+Hearing mixed reviews about Samsung.,Samsung,20-08-2024,Canada,hearing mixed reviews samsung,0.0,Neutral
+Microsoft needs to do better.,Microsoft,12-05-2025,USA,microsoft needs better,0.4404,Positive
+Not buying from Coca-Cola again.,Coca-Cola,26-10-2024,Germany,not buying cocacola,0.0,Neutral
+Terrible experience with Coca-Cola.,Coca-Cola,06-01-2025,USA,terrible experience cocacola,-0.4767,Negative
+Apple's product broke after a week.,Apple,10-08-2024,UK,apples product broke week,-0.4215,Negative
+Another great innovation by Coca-Cola!,Coca-Cola,23-07-2025,Canada,another great innovation cocacola,0.7717,Positive
+Another great innovation by Nike!,Nike,07-07-2025,Australia,another great innovation nike,0.7717,Positive
+No strong feelings about Adidas either way.,Adidas,20-04-2025,Germany,no strong feelings adidas either way,0.2732,Positive
+Coca-Cola's product broke after a week.,Coca-Cola,13-04-2025,Germany,cocacolas product broke week,-0.4215,Negative
+Very disappointed with Tesla this time.,Tesla,03-07-2025,UK,disappointed tesla time,-0.4767,Negative
+Microsoft announced a new product today.,Microsoft,04-09-2024,Australia,microsoft announced new product today,0.0,Neutral
+Tesla remains a popular choice.,Tesla,04-05-2025,Australia,tesla remains popular choice,0.4215,Positive
+Very disappointed with Amazon this time.,Amazon,10-08-2024,USA,disappointed amazon time,-0.34,Negative
+Apple really impressed me with their service.,Apple,20-07-2025,Canada,apple really impressed service,0.5256,Positive
+Hearing mixed reviews about Adidas.,Adidas,11-02-2025,UK,hearing mixed reviews adidas,0.0,Neutral
+Adidas needs to do better.,Adidas,29-01-2025,Canada,adidas needs better,0.4404,Positive
+Amazing experience using Apple's latest release.,Apple,12-07-2025,UK,amazing experience using apples latest release,0.5859,Positive
+Very disappointed with Microsoft this time.,Microsoft,15-03-2025,Germany,disappointed microsoft time,-0.4767,Negative
+Another great innovation by Nike!,Nike,15-04-2025,Australia,another great innovation nike,0.7717,Positive
+Not buying from Nike again.,Nike,02-12-2024,USA,not buying nike,0.0,Neutral
+Another great innovation by Adidas!,Adidas,02-11-2024,Australia,another great innovation adidas,0.7717,Positive
+Microsoft needs to do better.,Microsoft,25-07-2025,Germany,microsoft needs better,0.4404,Positive
+Not buying from Apple again.,Apple,16-05-2025,USA,not buying apple,0.0,Neutral
+Very disappointed with Coca-Cola this time.,Coca-Cola,29-08-2024,Australia,disappointed cocacola time,-0.4767,Negative
+Microsoft needs to do better.,Microsoft,29-04-2025,UK,microsoft needs better,0.4404,Positive
+There's a lot of buzz around Nike.,Nike,16-03-2025,USA,theres lot buzz around nike,0.0,Neutral
+Nike's product broke after a week.,Nike,12-09-2024,Canada,nikes product broke week,-0.4215,Negative
+No strong feelings about Tesla either way.,Tesla,29-11-2024,Australia,no strong feelings tesla either way,0.2732,Positive
+Amazing experience using Nike's latest release.,Nike,26-06-2025,Germany,amazing experience using nikes latest release,0.5859,Positive
+Samsung needs to do better.,Samsung,28-02-2025,Canada,samsung needs better,0.4404,Positive
+There's a lot of buzz around Adidas.,Adidas,13-02-2025,UK,theres lot buzz around adidas,0.0,Neutral
+Amazon's product broke after a week.,Amazon,01-07-2025,Germany,amazons product broke week,-0.4404,Negative
+Coca-Cola announced a new product today.,Coca-Cola,30-03-2025,Australia,cocacola announced new product today,0.0,Neutral
+Hearing mixed reviews about Apple.,Apple,17-04-2025,Australia,hearing mixed reviews apple,0.0,Neutral
+Not buying from Adidas again.,Adidas,14-08-2024,Australia,not buying adidas,0.0,Neutral
+Amazing experience using Amazon's latest release.,Amazon,05-03-2025,Canada,amazing experience using amazons latest release,0.5719,Positive
+I love the new Tesla product!,Tesla,27-10-2024,Canada,love new tesla product,0.6369,Positive
+Tesla needs to do better.,Tesla,29-10-2024,USA,tesla needs better,0.4404,Positive
+Another great innovation by Adidas!,Adidas,10-04-2025,Germany,another great innovation adidas,0.7717,Positive
+Samsung announced a new product today.,Samsung,28-08-2024,USA,samsung announced new product today,0.0,Neutral
+Apple remains a popular choice.,Apple,15-10-2024,UK,apple remains popular choice,0.4215,Positive
+Nike remains a popular choice.,Nike,06-01-2025,Australia,nike remains popular choice,0.4215,Positive
+Terrible experience with Coca-Cola.,Coca-Cola,14-09-2024,UK,terrible experience cocacola,-0.4767,Negative
+Samsung is setting the standard again.,Samsung,21-03-2025,Canada,samsung setting standard,0.0,Neutral
+Very disappointed with Apple this time.,Apple,20-01-2025,USA,disappointed apple time,-0.4767,Negative
+Tesla really impressed me with their service.,Tesla,23-12-2024,USA,tesla really impressed service,0.5256,Positive
+No strong feelings about Amazon either way.,Amazon,05-06-2025,Australia,no strong feelings amazon either way,0.4215,Positive
+I love the new Adidas product!,Adidas,18-04-2025,Australia,love new adidas product,0.6369,Positive
+Very disappointed with Microsoft this time.,Microsoft,26-03-2025,Germany,disappointed microsoft time,-0.4767,Negative
+Amazing experience using Apple's latest release.,Apple,27-04-2025,Germany,amazing experience using apples latest release,0.5859,Positive
+Another great innovation by Apple!,Apple,05-08-2024,Australia,another great innovation apple,0.7717,Positive
+Hearing mixed reviews about Coca-Cola.,Coca-Cola,21-03-2025,Canada,hearing mixed reviews cocacola,0.0,Neutral
+Not buying from Microsoft again.,Microsoft,19-08-2024,Canada,not buying microsoft,0.0,Neutral
+Terrible experience with Adidas.,Adidas,13-07-2025,Germany,terrible experience adidas,-0.4767,Negative
+Samsung is setting the standard again.,Samsung,10-08-2024,USA,samsung setting standard,0.0,Neutral
+Tesla really impressed me with their service.,Tesla,24-01-2025,Canada,tesla really impressed service,0.5256,Positive
+Not buying from Amazon again.,Amazon,23-04-2025,Germany,not buying amazon,-0.1326,Negative
+No strong feelings about Nike either way.,Nike,25-08-2024,Germany,no strong feelings nike either way,0.2732,Positive
+Amazing experience using Samsung's latest release.,Samsung,11-12-2024,Australia,amazing experience using samsungs latest release,0.5859,Positive
+Hearing mixed reviews about Apple.,Apple,26-08-2024,UK,hearing mixed reviews apple,0.0,Neutral
+Amazing experience using Tesla's latest release.,Tesla,25-08-2024,USA,amazing experience using teslas latest release,0.5859,Positive
+Amazing experience using Samsung's latest release.,Samsung,30-05-2025,USA,amazing experience using samsungs latest release,0.5859,Positive
+Hearing mixed reviews about Nike.,Nike,12-01-2025,Canada,hearing mixed reviews nike,0.0,Neutral
+Amazing experience using Nike's latest release.,Nike,31-01-2025,Germany,amazing experience using nikes latest release,0.5859,Positive
+Amazing experience using Coca-Cola's latest release.,Coca-Cola,02-03-2025,Germany,amazing experience using cocacolas latest release,0.5859,Positive
+Terrible experience with Amazon.,Amazon,13-04-2025,Australia,terrible experience amazon,-0.34,Negative
+I love the new Microsoft product!,Microsoft,10-02-2025,Canada,love new microsoft product,0.6369,Positive
+Amazon remains a popular choice.,Amazon,15-04-2025,USA,amazon remains popular choice,0.5423,Positive
+There's a lot of buzz around Nike.,Nike,14-11-2024,Germany,theres lot buzz around nike,0.0,Neutral
+Coca-Cola remains a popular choice.,Coca-Cola,24-10-2024,USA,cocacola remains popular choice,0.4215,Positive
+Terrible experience with Amazon.,Amazon,05-11-2024,Australia,terrible experience amazon,-0.34,Negative
+Hearing mixed reviews about Samsung.,Samsung,07-01-2025,Canada,hearing mixed reviews samsung,0.0,Neutral
+Not buying from Adidas again.,Adidas,18-06-2025,Australia,not buying adidas,0.0,Neutral
+No strong feelings about Tesla either way.,Tesla,20-09-2024,Germany,no strong feelings tesla either way,0.2732,Positive
+Nike is setting the standard again.,Nike,15-03-2025,Germany,nike setting standard,0.0,Neutral
+Very disappointed with Microsoft this time.,Microsoft,23-11-2024,Canada,disappointed microsoft time,-0.4767,Negative
+Amazon is setting the standard again.,Amazon,21-08-2024,Australia,amazon setting standard,0.1779,Positive
+Tesla remains a popular choice.,Tesla,14-08-2024,USA,tesla remains popular choice,0.4215,Positive
+Not buying from Tesla again.,Tesla,08-07-2025,UK,not buying tesla,0.0,Neutral
+There's a lot of buzz around Samsung.,Samsung,19-10-2024,UK,theres lot buzz around samsung,0.0,Neutral
+Another great innovation by Adidas!,Adidas,27-07-2025,Canada,another great innovation adidas,0.7717,Positive
+Terrible experience with Amazon.,Amazon,09-04-2025,USA,terrible experience amazon,-0.34,Negative
+Samsung remains a popular choice.,Samsung,06-02-2025,Canada,samsung remains popular choice,0.4215,Positive
+There's a lot of buzz around Microsoft.,Microsoft,05-07-2025,USA,theres lot buzz around microsoft,0.0,Neutral
+Adidas's product broke after a week.,Adidas,19-03-2025,UK,adidass product broke week,-0.4215,Negative
+Another great innovation by Nike!,Nike,31-12-2024,USA,another great innovation nike,0.7717,Positive
+Amazing experience using Nike's latest release.,Nike,06-10-2024,Canada,amazing experience using nikes latest release,0.5859,Positive
+Another great innovation by Tesla!,Tesla,22-12-2024,Germany,another great innovation tesla,0.7717,Positive
+There's a lot of buzz around Coca-Cola.,Coca-Cola,05-12-2024,Australia,theres lot buzz around cocacola,0.0,Neutral
+No strong feelings about Coca-Cola either way.,Coca-Cola,23-10-2024,Australia,no strong feelings cocacola either way,0.2732,Positive
+Samsung really impressed me with their service.,Samsung,27-04-2025,Germany,samsung really impressed service,0.5256,Positive
+Hearing mixed reviews about Samsung.,Samsung,28-11-2024,Australia,hearing mixed reviews samsung,0.0,Neutral
+Terrible experience with Microsoft.,Microsoft,03-06-2025,Australia,terrible experience microsoft,-0.4767,Negative
+Coca-Cola remains a popular choice.,Coca-Cola,05-08-2024,Germany,cocacola remains popular choice,0.4215,Positive
+Microsoft needs to do better.,Microsoft,07-11-2024,USA,microsoft needs better,0.4404,Positive
+Another great innovation by Microsoft!,Microsoft,29-12-2024,Australia,another great innovation microsoft,0.7717,Positive
+Amazing experience using Coca-Cola's latest release.,Coca-Cola,17-08-2024,Germany,amazing experience using cocacolas latest release,0.5859,Positive
+Tesla really impressed me with their service.,Tesla,14-11-2024,USA,tesla really impressed service,0.5256,Positive
+Another great innovation by Adidas!,Adidas,15-09-2024,Germany,another great innovation adidas,0.7717,Positive
+Another great innovation by Nike!,Nike,29-08-2024,Australia,another great innovation nike,0.7717,Positive
+Nike announced a new product today.,Nike,25-12-2024,Germany,nike announced new product today,0.0,Neutral
+No strong feelings about Tesla either way.,Tesla,22-05-2025,Germany,no strong feelings tesla either way,0.2732,Positive
+Coca-Cola announced a new product today.,Coca-Cola,14-03-2025,Canada,cocacola announced new product today,0.0,Neutral
+Very disappointed with Amazon this time.,Amazon,13-12-2024,Australia,disappointed amazon time,-0.34,Negative
+No strong feelings about Microsoft either way.,Microsoft,05-12-2024,UK,no strong feelings microsoft either way,0.2732,Positive
+Hearing mixed reviews about Coca-Cola.,Coca-Cola,02-01-2025,Germany,hearing mixed reviews cocacola,0.0,Neutral
+Coca-Cola's product broke after a week.,Coca-Cola,07-03-2025,USA,cocacolas product broke week,-0.4215,Negative
+Amazon is setting the standard again.,Amazon,05-08-2024,Canada,amazon setting standard,0.1779,Positive
+Tesla is setting the standard again.,Tesla,25-02-2025,Canada,tesla setting standard,0.0,Neutral
+Another great innovation by Amazon!,Amazon,15-12-2024,UK,another great innovation amazon,0.8126,Positive
+There's a lot of buzz around Microsoft.,Microsoft,22-10-2024,Germany,theres lot buzz around microsoft,0.0,Neutral
+Amazing experience using Amazon's latest release.,Amazon,02-04-2025,UK,amazing experience using amazons latest release,0.5719,Positive
+Another great innovation by Samsung!,Samsung,16-01-2025,Australia,another great innovation samsung,0.7717,Positive
+Not buying from Samsung again.,Samsung,10-04-2025,Germany,not buying samsung,0.0,Neutral
+Amazon is setting the standard again.,Amazon,04-06-2025,Canada,amazon setting standard,0.1779,Positive
+I love the new Apple product!,Apple,09-08-2024,Canada,love new apple product,0.6369,Positive
+Not buying from Samsung again.,Samsung,16-01-2025,Canada,not buying samsung,0.0,Neutral
+Amazing experience using Apple's latest release.,Apple,21-03-2025,Canada,amazing experience using apples latest release,0.5859,Positive
+Nike announced a new product today.,Nike,30-11-2024,UK,nike announced new product today,0.0,Neutral
+Terrible experience with Coca-Cola.,Coca-Cola,13-04-2025,Canada,terrible experience cocacola,-0.4767,Negative
+Samsung's product broke after a week.,Samsung,04-03-2025,Germany,samsungs product broke week,-0.4215,Negative
+There's a lot of buzz around Microsoft.,Microsoft,04-04-2025,Canada,theres lot buzz around microsoft,0.0,Neutral
+There's a lot of buzz around Nike.,Nike,27-07-2025,Canada,theres lot buzz around nike,0.0,Neutral
+Adidas really impressed me with their service.,Adidas,21-01-2025,Germany,adidas really impressed service,0.5256,Positive
+I love the new Coca-Cola product!,Coca-Cola,19-03-2025,Germany,love new cocacola product,0.6369,Positive
+Amazon's product broke after a week.,Amazon,30-09-2024,USA,amazons product broke week,-0.4404,Negative
+Amazon really impressed me with their service.,Amazon,16-10-2024,Canada,amazon really impressed service,0.624,Positive
+Amazing experience using Amazon's latest release.,Amazon,27-12-2024,Australia,amazing experience using amazons latest release,0.5719,Positive
+I love the new Microsoft product!,Microsoft,24-08-2024,UK,love new microsoft product,0.6369,Positive
+I love the new Nike product!,Nike,10-04-2025,Australia,love new nike product,0.6369,Positive
+Terrible experience with Apple.,Apple,27-02-2025,USA,terrible experience apple,-0.4767,Negative
+Adidas remains a popular choice.,Adidas,28-01-2025,USA,adidas remains popular choice,0.4215,Positive
+Microsoft needs to do better.,Microsoft,28-02-2025,Germany,microsoft needs better,0.4404,Positive
+Another great innovation by Microsoft!,Microsoft,30-07-2024,UK,another great innovation microsoft,0.7717,Positive
+Tesla is setting the standard again.,Tesla,08-05-2025,Germany,tesla setting standard,0.0,Neutral
+Microsoft is setting the standard again.,Microsoft,08-06-2025,Canada,microsoft setting standard,0.0,Neutral
+Terrible experience with Coca-Cola.,Coca-Cola,11-01-2025,Germany,terrible experience cocacola,-0.4767,Negative
+No strong feelings about Samsung either way.,Samsung,28-02-2025,Canada,no strong feelings samsung either way,0.2732,Positive
+There's a lot of buzz around Samsung.,Samsung,10-04-2025,Germany,theres lot buzz around samsung,0.0,Neutral
+Coca-Cola announced a new product today.,Coca-Cola,14-09-2024,UK,cocacola announced new product today,0.0,Neutral
+Oracle is setting the standard again.,Oracle,27-05-2025,Canada,oracle setting standard,0.0,Neutral
+Terrible experience with Sony.,Sony,24-03-2025,UK,terrible experience sony,-0.4767,Negative
+Nike really impressed me with their service.,Nike,13-12-2024,USA,nike really impressed service,0.5256,Positive
+Terrible experience with Google.,Google,14-02-2025,USA,terrible experience google,-0.4767,Negative
+Very disappointed with Facebook this time.,Facebook,02-08-2024,Canada,disappointed facebook time,-0.4767,Negative
+Very disappointed with LinkedIn this time.,LinkedIn,13-12-2024,Australia,disappointed linkedin time,-0.4767,Negative
+Another great innovation by Samsung!,Samsung,21-03-2025,USA,another great innovation samsung,0.7717,Positive
+I love the new Nike product!,Nike,19-03-2025,Australia,love new nike product,0.6369,Positive
+Google announced a new product today.,Google,22-01-2025,USA,google announced new product today,0.0,Neutral
+Very disappointed with Nike this time.,Nike,06-09-2024,Canada,disappointed nike time,-0.4767,Negative
+Amazing experience using Uber's latest release.,Uber,12-02-2025,Canada,amazing experience using ubers latest release,0.5859,Positive
+Airbnb is setting the standard again.,Airbnb,24-10-2024,Canada,airbnb setting standard,0.0,Neutral
+Apple's product broke after a week.,Apple,26-07-2025,USA,apples product broke week,-0.4215,Negative
+Terrible experience with Google.,Google,19-03-2025,Germany,terrible experience google,-0.4767,Negative
+There's a lot of buzz around BMW.,BMW,10-06-2025,Australia,theres lot buzz around bmw,0.0,Neutral
+Coca-Cola announced a new product today.,Coca-Cola,24-06-2025,UK,cocacola announced new product today,0.0,Neutral
+No strong feelings about Facebook either way.,Facebook,24-10-2024,USA,no strong feelings facebook either way,0.2732,Positive
+No strong feelings about Sony either way.,Sony,18-04-2025,USA,no strong feelings sony either way,0.2732,Positive
+Pepsi announced a new product today.,Pepsi,08-06-2025,Canada,pepsi announced new product today,0.0,Neutral
+No strong feelings about Nike either way.,Nike,12-01-2025,Germany,no strong feelings nike either way,0.2732,Positive
+Starbucks really impressed me with their service.,Starbucks,23-04-2025,Australia,starbucks really impressed service,0.5256,Positive
+Netflix really impressed me with their service.,Netflix,02-08-2024,Australia,netflix really impressed service,0.5256,Positive
+There's a lot of buzz around Airbnb.,Airbnb,29-07-2024,UK,theres lot buzz around airbnb,0.0,Neutral
+Google announced a new product today.,Google,25-09-2024,USA,google announced new product today,0.0,Neutral
+There's a lot of buzz around Dell.,Dell,23-12-2024,UK,theres lot buzz around dell,0.0,Neutral
+Amazing experience using Dell's latest release.,Dell,03-06-2025,USA,amazing experience using dells latest release,0.5859,Positive
+I love the new Adidas product!,Adidas,21-04-2025,Australia,love new adidas product,0.6369,Positive
+I love the new Lenovo product!,Lenovo,09-07-2025,Germany,love new lenovo product,0.6369,Positive
+McDonald's remains a popular choice.,McDonald's,11-05-2025,UK,mcdonalds remains popular choice,0.4215,Positive
+Netflix announced a new product today.,Netflix,11-07-2025,Canada,netflix announced new product today,0.0,Neutral
+Hearing mixed reviews about Airbnb.,Airbnb,26-09-2024,USA,hearing mixed reviews airbnb,0.0,Neutral
+No strong feelings about Dell either way.,Dell,17-12-2024,Australia,no strong feelings dell either way,0.2732,Positive
+Starbucks really impressed me with their service.,Starbucks,11-09-2024,Germany,starbucks really impressed service,0.5256,Positive
+Not buying from LinkedIn again.,LinkedIn,17-11-2024,Germany,not buying linkedin,0.0,Neutral
+Amazing experience using Spotify's latest release.,Spotify,28-01-2025,Canada,amazing experience using spotifys latest release,0.5859,Positive
+I love the new Netflix product!,Netflix,02-12-2024,Australia,love new netflix product,0.6369,Positive
+Samsung's product broke after a week.,Samsung,26-09-2024,USA,samsungs product broke week,-0.4215,Negative
+Dell remains a popular choice.,Dell,18-04-2025,Germany,dell remains popular choice,0.4215,Positive
+I love the new Sony product!,Sony,26-06-2025,Australia,love new sony product,0.6369,Positive
+Airbnb needs to do better.,Airbnb,15-09-2024,UK,airbnb needs better,0.4404,Positive
+Hearing mixed reviews about Spotify.,Spotify,11-05-2025,Australia,hearing mixed reviews spotify,0.0,Neutral
+I love the new Zoom product!,Zoom,21-12-2024,Canada,love new zoom product,0.6369,Positive
+Another great innovation by Adidas!,Adidas,20-08-2024,Germany,another great innovation adidas,0.7717,Positive
+Hearing mixed reviews about LinkedIn.,LinkedIn,17-07-2025,UK,hearing mixed reviews linkedin,0.0,Neutral
+Tesla remains a popular choice.,Tesla,16-09-2024,Germany,tesla remains popular choice,0.4215,Positive
+I love the new Uber product!,Uber,12-05-2025,UK,love new uber product,0.6369,Positive
+No strong feelings about Dell either way.,Dell,17-05-2025,Australia,no strong feelings dell either way,0.2732,Positive
+Nike announced a new product today.,Nike,10-01-2025,UK,nike announced new product today,0.0,Neutral
+Microsoft really impressed me with their service.,Microsoft,03-07-2025,USA,microsoft really impressed service,0.5256,Positive
+Amazing experience using Tesla's latest release.,Tesla,10-08-2024,Australia,amazing experience using teslas latest release,0.5859,Positive
+Amazing experience using Intel's latest release.,Intel,09-01-2025,Germany,amazing experience using intels latest release,0.5859,Positive
+Google remains a popular choice.,Google,20-06-2025,Australia,google remains popular choice,0.4215,Positive
+Intel really impressed me with their service.,Intel,19-05-2025,Canada,intel really impressed service,0.5256,Positive
+Not buying from Puma again.,Puma,28-09-2024,USA,not buying puma,0.0,Neutral
+BMW remains a popular choice.,BMW,05-12-2024,Canada,bmw remains popular choice,0.4215,Positive
+Terrible experience with Intel.,Intel,30-03-2025,UK,terrible experience intel,-0.4767,Negative
+Very disappointed with Tesla this time.,Tesla,21-09-2024,Germany,disappointed tesla time,-0.4767,Negative
+Hearing mixed reviews about Puma.,Puma,05-04-2025,Australia,hearing mixed reviews puma,0.0,Neutral
+Spotify really impressed me with their service.,Spotify,16-04-2025,Australia,spotify really impressed service,0.5256,Positive
+Adidas really impressed me with their service.,Adidas,10-01-2025,Canada,adidas really impressed service,0.5256,Positive
+Puma really impressed me with their service.,Puma,20-09-2024,USA,puma really impressed service,0.5256,Positive
+Adidas needs to do better.,Adidas,08-04-2025,Australia,adidas needs better,0.4404,Positive
+There's a lot of buzz around Spotify.,Spotify,05-11-2024,Australia,theres lot buzz around spotify,0.0,Neutral
+Amazing experience using Puma's latest release.,Puma,23-06-2025,Canada,amazing experience using pumas latest release,0.5859,Positive
+Uber's product broke after a week.,Uber,17-05-2025,Germany,ubers product broke week,-0.4215,Negative
+There's a lot of buzz around McDonald's.,McDonald's,02-07-2025,Canada,theres lot buzz around mcdonalds,0.0,Neutral
+Terrible experience with Intel.,Intel,05-02-2025,Canada,terrible experience intel,-0.4767,Negative
+Starbucks remains a popular choice.,Starbucks,09-06-2025,Germany,starbucks remains popular choice,0.4215,Positive
+Hearing mixed reviews about Coca-Cola.,Coca-Cola,30-12-2024,Australia,hearing mixed reviews cocacola,0.0,Neutral
+Another great innovation by Puma!,Puma,17-11-2024,Canada,another great innovation puma,0.7717,Positive
+I love the new LinkedIn product!,LinkedIn,17-12-2024,UK,love new linkedin product,0.6369,Positive
+Not buying from Nike again.,Nike,10-07-2025,USA,not buying nike,0.0,Neutral
+Tesla announced a new product today.,Tesla,30-11-2024,UK,tesla announced new product today,0.0,Neutral
+Not buying from Coca-Cola again.,Coca-Cola,02-02-2025,UK,not buying cocacola,0.0,Neutral
+Another great innovation by Coca-Cola!,Coca-Cola,13-12-2024,USA,another great innovation cocacola,0.7717,Positive
+No strong feelings about LinkedIn either way.,LinkedIn,05-08-2024,USA,no strong feelings linkedin either way,0.2732,Positive
+No strong feelings about YouTube either way.,YouTube,13-06-2025,Australia,no strong feelings youtube either way,0.2732,Positive
+Not buying from Adidas again.,Adidas,15-10-2024,UK,not buying adidas,0.0,Neutral
+Nike remains a popular choice.,Nike,27-02-2025,USA,nike remains popular choice,0.4215,Positive
+Terrible experience with McDonald's.,McDonald's,15-09-2024,UK,terrible experience mcdonalds,-0.4767,Negative
+LinkedIn announced a new product today.,LinkedIn,23-07-2025,Germany,linkedin announced new product today,0.0,Neutral
+Facebook really impressed me with their service.,Facebook,24-11-2024,Canada,facebook really impressed service,0.5256,Positive
+Intel's product broke after a week.,Intel,25-04-2025,USA,intels product broke week,-0.4215,Negative
+Very disappointed with YouTube this time.,YouTube,13-02-2025,USA,disappointed youtube time,-0.4767,Negative
+Amazing experience using Amazon's latest release.,Amazon,20-04-2025,Germany,amazing experience using amazons latest release,0.5719,Positive
+Toyota needs to do better.,Toyota,19-05-2025,Germany,toyota needs better,0.4404,Positive
+Facebook's product broke after a week.,Facebook,26-09-2024,Germany,facebooks product broke week,-0.4215,Negative
+Lenovo needs to do better.,Lenovo,26-04-2025,Australia,lenovo needs better,0.4404,Positive
+Amazon remains a popular choice.,Amazon,18-05-2025,Canada,amazon remains popular choice,0.5423,Positive
+BMW is setting the standard again.,BMW,15-05-2025,Australia,bmw setting standard,0.0,Neutral
+Hearing mixed reviews about Dell.,Dell,09-09-2024,USA,hearing mixed reviews dell,0.0,Neutral
+YouTube announced a new product today.,YouTube,09-12-2024,Canada,youtube announced new product today,0.0,Neutral
+Toyota announced a new product today.,Toyota,20-08-2024,Canada,toyota announced new product today,0.0,Neutral
+Microsoft needs to do better.,Microsoft,20-08-2024,Germany,microsoft needs better,0.4404,Positive
+Amazing experience using Airbnb's latest release.,Airbnb,29-08-2024,Australia,amazing experience using airbnbs latest release,0.5859,Positive
+Airbnb really impressed me with their service.,Airbnb,14-06-2025,USA,airbnb really impressed service,0.5256,Positive
+YouTube remains a popular choice.,YouTube,25-08-2024,Australia,youtube remains popular choice,0.4215,Positive
+Another great innovation by Toyota!,Toyota,20-10-2024,Germany,another great innovation toyota,0.7717,Positive
+Google remains a popular choice.,Google,04-04-2025,Germany,google remains popular choice,0.4215,Positive
+No strong feelings about BMW either way.,BMW,05-01-2025,USA,no strong feelings bmw either way,0.2732,Positive
+I love the new Dell product!,Dell,16-07-2025,Germany,love new dell product,0.6369,Positive
+LinkedIn is setting the standard again.,LinkedIn,15-04-2025,UK,linkedin setting standard,0.0,Neutral
+I love the new Netflix product!,Netflix,13-05-2025,Canada,love new netflix product,0.6369,Positive
+Very disappointed with Amazon this time.,Amazon,26-03-2025,Germany,disappointed amazon time,-0.34,Negative
+I love the new Netflix product!,Netflix,13-07-2025,USA,love new netflix product,0.6369,Positive
+I love the new LinkedIn product!,LinkedIn,20-04-2025,Australia,love new linkedin product,0.6369,Positive
+Very disappointed with LinkedIn this time.,LinkedIn,30-06-2025,Canada,disappointed linkedin time,-0.4767,Negative
+Intel announced a new product today.,Intel,17-04-2025,USA,intel announced new product today,0.0,Neutral
+Terrible experience with Dell.,Dell,10-11-2024,Canada,terrible experience dell,-0.4767,Negative
+YouTube really impressed me with their service.,YouTube,28-07-2024,Germany,youtube really impressed service,0.5256,Positive
+Very disappointed with Microsoft this time.,Microsoft,13-03-2025,UK,disappointed microsoft time,-0.4767,Negative
+No strong feelings about Facebook either way.,Facebook,23-02-2025,UK,no strong feelings facebook either way,0.2732,Positive
+Facebook really impressed me with their service.,Facebook,27-03-2025,Canada,facebook really impressed service,0.5256,Positive
+Amazon announced a new product today.,Amazon,01-02-2025,Australia,amazon announced new product today,0.1779,Positive
+I love the new Zoom product!,Zoom,26-10-2024,Canada,love new zoom product,0.6369,Positive
+Starbucks really impressed me with their service.,Starbucks,20-08-2024,USA,starbucks really impressed service,0.5256,Positive
+Amazing experience using Netflix's latest release.,Netflix,31-10-2024,Canada,amazing experience using netflixs latest release,0.5859,Positive
+There's a lot of buzz around Tesla.,Tesla,01-05-2025,USA,theres lot buzz around tesla,0.0,Neutral
+I love the new Tesla product!,Tesla,07-10-2024,Germany,love new tesla product,0.6369,Positive
+Not buying from YouTube again.,YouTube,04-03-2025,Germany,not buying youtube,0.0,Neutral
+Spotify needs to do better.,Spotify,28-01-2025,UK,spotify needs better,0.4404,Positive
+Not buying from Dell again.,Dell,28-05-2025,Canada,not buying dell,0.0,Neutral
+Not buying from Starbucks again.,Starbucks,27-01-2025,Germany,not buying starbucks,0.0,Neutral
+Terrible experience with BMW.,BMW,12-04-2025,Australia,terrible experience bmw,-0.4767,Negative
+Amazing experience using Sony's latest release.,Sony,26-06-2025,USA,amazing experience using sonys latest release,0.5859,Positive
+Uber really impressed me with their service.,Uber,09-08-2024,Australia,uber really impressed service,0.5678,Positive
+Not buying from Starbucks again.,Starbucks,08-05-2025,UK,not buying starbucks,0.0,Neutral
+There's a lot of buzz around Netflix.,Netflix,25-04-2025,Canada,theres lot buzz around netflix,0.0,Neutral
+There's a lot of buzz around Google.,Google,30-09-2024,Canada,theres lot buzz around google,0.0,Neutral
+Zoom is setting the standard again.,Zoom,02-07-2025,UK,zoom setting standard,0.0,Neutral
+Netflix needs to do better.,Netflix,29-06-2025,Canada,netflix needs better,0.4404,Positive
+I love the new Coca-Cola product!,Coca-Cola,25-10-2024,UK,love new cocacola product,0.6369,Positive
+Another great innovation by Puma!,Puma,18-01-2025,UK,another great innovation puma,0.7717,Positive
+No strong feelings about Spotify either way.,Spotify,12-09-2024,UK,no strong feelings spotify either way,0.2732,Positive
+Sony really impressed me with their service.,Sony,21-01-2025,Australia,sony really impressed service,0.5256,Positive
+Netflix is setting the standard again.,Netflix,24-08-2024,Canada,netflix setting standard,0.0,Neutral
+Not buying from BMW again.,BMW,09-05-2025,Germany,not buying bmw,0.0,Neutral
+Amazing experience using Dell's latest release.,Dell,13-04-2025,UK,amazing experience using dells latest release,0.5859,Positive
+Hearing mixed reviews about Pepsi.,Pepsi,25-12-2024,Australia,hearing mixed reviews pepsi,0.0,Neutral
+Very disappointed with Coca-Cola this time.,Coca-Cola,05-08-2024,Germany,disappointed cocacola time,-0.4767,Negative
+Google announced a new product today.,Google,11-09-2024,Canada,google announced new product today,0.0,Neutral
+Amazing experience using Puma's latest release.,Puma,01-12-2024,Canada,amazing experience using pumas latest release,0.5859,Positive
+Another great innovation by YouTube!,YouTube,14-04-2025,UK,another great innovation youtube,0.7717,Positive
+Amazing experience using Oracle's latest release.,Oracle,09-11-2024,USA,amazing experience using oracles latest release,0.5859,Positive
+Very disappointed with Zoom this time.,Zoom,09-01-2025,Australia,disappointed zoom time,-0.4767,Negative
+Tesla's product broke after a week.,Tesla,05-05-2025,USA,teslas product broke week,-0.4215,Negative
+Google needs to do better.,Google,07-08-2024,UK,google needs better,0.4404,Positive
+Terrible experience with Intel.,Intel,27-02-2025,UK,terrible experience intel,-0.4767,Negative
+Terrible experience with Facebook.,Facebook,10-05-2025,Australia,terrible experience facebook,-0.4767,Negative
+Very disappointed with Adidas this time.,Adidas,14-04-2025,Canada,disappointed adidas time,-0.4767,Negative
+Adidas really impressed me with their service.,Adidas,16-12-2024,Germany,adidas really impressed service,0.5256,Positive
+There's a lot of buzz around Amazon.,Amazon,06-09-2024,Australia,theres lot buzz around amazon,0.1779,Positive
+Terrible experience with Uber.,Uber,12-04-2025,USA,terrible experience uber,-0.4767,Negative
+Adidas needs to do better.,Adidas,19-05-2025,UK,adidas needs better,0.4404,Positive
+Another great innovation by Starbucks!,Starbucks,12-05-2025,UK,another great innovation starbucks,0.7717,Positive
+Amazon's product broke after a week.,Amazon,12-09-2024,Australia,amazons product broke week,-0.4404,Negative
+Uber needs to do better.,Uber,29-12-2024,Australia,uber needs better,0.4902,Positive
+Google remains a popular choice.,Google,19-03-2025,Australia,google remains popular choice,0.4215,Positive
+Hearing mixed reviews about Sony.,Sony,18-04-2025,UK,hearing mixed reviews sony,0.0,Neutral
+I love the new Google product!,Google,17-02-2025,Germany,love new google product,0.6369,Positive
+McDonald's remains a popular choice.,McDonald's,16-06-2025,Canada,mcdonalds remains popular choice,0.4215,Positive
+Very disappointed with Adidas this time.,Adidas,13-03-2025,Canada,disappointed adidas time,-0.4767,Negative
+Hearing mixed reviews about Sony.,Sony,11-08-2024,UK,hearing mixed reviews sony,0.0,Neutral
+I love the new Zoom product!,Zoom,18-12-2024,USA,love new zoom product,0.6369,Positive
+Very disappointed with Apple this time.,Apple,20-07-2025,UK,disappointed apple time,-0.4767,Negative
+Airbnb's product broke after a week.,Airbnb,29-07-2024,Canada,airbnbs product broke week,-0.4215,Negative
+Hearing mixed reviews about Puma.,Puma,09-07-2025,USA,hearing mixed reviews puma,0.0,Neutral
+Coca-Cola's product broke after a week.,Coca-Cola,02-11-2024,Canada,cocacolas product broke week,-0.4215,Negative
+Terrible experience with LinkedIn.,LinkedIn,30-06-2025,Germany,terrible experience linkedin,-0.4767,Negative
+Not buying from Pepsi again.,Pepsi,21-09-2024,Germany,not buying pepsi,0.0,Neutral
+Puma announced a new product today.,Puma,12-05-2025,USA,puma announced new product today,0.0,Neutral
+Terrible experience with Amazon.,Amazon,22-07-2025,Canada,terrible experience amazon,-0.34,Negative
+Amazing experience using Spotify's latest release.,Spotify,05-03-2025,USA,amazing experience using spotifys latest release,0.5859,Positive
+LinkedIn remains a popular choice.,LinkedIn,19-11-2024,Australia,linkedin remains popular choice,0.4215,Positive
+Very disappointed with Tesla this time.,Tesla,03-09-2024,Germany,disappointed tesla time,-0.4767,Negative
+Coca-Cola announced a new product today.,Coca-Cola,16-12-2024,Germany,cocacola announced new product today,0.0,Neutral
+Amazing experience using Lenovo's latest release.,Lenovo,30-12-2024,Germany,amazing experience using lenovos latest release,0.5859,Positive
+No strong feelings about Zoom either way.,Zoom,28-05-2025,UK,no strong feelings zoom either way,0.2732,Positive
+Terrible experience with Tesla.,Tesla,29-03-2025,USA,terrible experience tesla,-0.4767,Negative
+Another great innovation by Intel!,Intel,06-08-2024,USA,another great innovation intel,0.7717,Positive
+Starbucks announced a new product today.,Starbucks,31-01-2025,Germany,starbucks announced new product today,0.0,Neutral
+Netflix's product broke after a week.,Netflix,28-11-2024,Canada,netflixs product broke week,-0.4215,Negative
+There's a lot of buzz around Toyota.,Toyota,14-11-2024,Canada,theres lot buzz around toyota,0.0,Neutral
+Spotify is setting the standard again.,Spotify,23-08-2024,Canada,spotify setting standard,0.0,Neutral
+Terrible experience with YouTube.,YouTube,20-09-2024,Australia,terrible experience youtube,-0.4767,Negative
+McDonald's is setting the standard again.,McDonald's,18-10-2024,UK,mcdonalds setting standard,0.0,Neutral
+No strong feelings about LinkedIn either way.,LinkedIn,17-12-2024,UK,no strong feelings linkedin either way,0.2732,Positive
+YouTube is setting the standard again.,YouTube,29-09-2024,Canada,youtube setting standard,0.0,Neutral
+I love the new Coca-Cola product!,Coca-Cola,26-11-2024,USA,love new cocacola product,0.6369,Positive
+Another great innovation by Apple!,Apple,25-12-2024,Australia,another great innovation apple,0.7717,Positive
+I love the new Lenovo product!,Lenovo,05-12-2024,Australia,love new lenovo product,0.6369,Positive
+Amazon remains a popular choice.,Amazon,14-06-2025,UK,amazon remains popular choice,0.5423,Positive
+McDonald's announced a new product today.,McDonald's,22-09-2024,Germany,mcdonalds announced new product today,0.0,Neutral
+Hearing mixed reviews about Tesla.,Tesla,15-06-2025,Canada,hearing mixed reviews tesla,0.0,Neutral
+Not buying from Lenovo again.,Lenovo,30-01-2025,Canada,not buying lenovo,0.0,Neutral
+Oracle is setting the standard again.,Oracle,23-03-2025,USA,oracle setting standard,0.0,Neutral
+Amazon really impressed me with their service.,Amazon,20-04-2025,Canada,amazon really impressed service,0.624,Positive
+Hearing mixed reviews about Amazon.,Amazon,21-01-2025,UK,hearing mixed reviews amazon,0.1779,Positive
+Amazon needs to do better.,Amazon,20-03-2025,Canada,amazon needs better,0.5574,Positive
+YouTube announced a new product today.,YouTube,17-03-2025,Canada,youtube announced new product today,0.0,Neutral
+Adidas is setting the standard again.,Adidas,29-10-2024,Germany,adidas setting standard,0.0,Neutral
+Zoom needs to do better.,Zoom,27-08-2024,UK,zoom needs better,0.4404,Positive
+Dell announced a new product today.,Dell,07-12-2024,Germany,dell announced new product today,0.0,Neutral
+Another great innovation by Toyota!,Toyota,24-11-2024,Australia,another great innovation toyota,0.7717,Positive
+Amazing experience using Spotify's latest release.,Spotify,08-03-2025,USA,amazing experience using spotifys latest release,0.5859,Positive
+LinkedIn's product broke after a week.,LinkedIn,08-05-2025,Germany,linkedins product broke week,-0.4215,Negative
+Very disappointed with Lenovo this time.,Lenovo,29-08-2024,UK,disappointed lenovo time,-0.4767,Negative
+Terrible experience with Toyota.,Toyota,21-08-2024,Canada,terrible experience toyota,-0.4767,Negative
+Pepsi's product broke after a week.,Pepsi,04-09-2024,UK,pepsis product broke week,-0.4215,Negative
+Amazon needs to do better.,Amazon,30-01-2025,Canada,amazon needs better,0.5574,Positive
+Toyota really impressed me with their service.,Toyota,16-01-2025,USA,toyota really impressed service,0.5256,Positive
+Amazing experience using Facebook's latest release.,Facebook,20-09-2024,Canada,amazing experience using facebooks latest release,0.5859,Positive
+No strong feelings about Facebook either way.,Facebook,07-04-2025,USA,no strong feelings facebook either way,0.2732,Positive
+No strong feelings about Amazon either way.,Amazon,07-05-2025,Germany,no strong feelings amazon either way,0.4215,Positive
+Very disappointed with Lenovo this time.,Lenovo,06-04-2025,Canada,disappointed lenovo time,-0.4767,Negative
+Netflix really impressed me with their service.,Netflix,12-03-2025,Germany,netflix really impressed service,0.5256,Positive
+No strong feelings about Tesla either way.,Tesla,07-12-2024,USA,no strong feelings tesla either way,0.2732,Positive
+Tesla really impressed me with their service.,Tesla,23-03-2025,Canada,tesla really impressed service,0.5256,Positive
+Terrible experience with Dell.,Dell,31-01-2025,Canada,terrible experience dell,-0.4767,Negative
+Not buying from Apple again.,Apple,22-10-2024,Australia,not buying apple,0.0,Neutral
+Terrible experience with LinkedIn.,LinkedIn,13-05-2025,Australia,terrible experience linkedin,-0.4767,Negative
+Oracle's product broke after a week.,Oracle,04-11-2024,Canada,oracles product broke week,-0.4215,Negative
+There's a lot of buzz around Starbucks.,Starbucks,03-01-2025,Germany,theres lot buzz around starbucks,0.0,Neutral
+Tesla really impressed me with their service.,Tesla,04-04-2025,Germany,tesla really impressed service,0.5256,Positive
+Airbnb really impressed me with their service.,Airbnb,06-06-2025,Canada,airbnb really impressed service,0.5256,Positive
+No strong feelings about Tesla either way.,Tesla,17-05-2025,USA,no strong feelings tesla either way,0.2732,Positive
+Not buying from BMW again.,BMW,03-02-2025,Canada,not buying bmw,0.0,Neutral
+Netflix remains a popular choice.,Netflix,26-01-2025,Germany,netflix remains popular choice,0.4215,Positive
+Google remains a popular choice.,Google,07-09-2024,UK,google remains popular choice,0.4215,Positive
+Very disappointed with Dell this time.,Dell,30-05-2025,UK,disappointed dell time,-0.4767,Negative
+Amazing experience using Google's latest release.,Google,17-05-2025,Australia,amazing experience using googles latest release,0.5859,Positive
+Toyota is setting the standard again.,Toyota,24-01-2025,Australia,toyota setting standard,0.0,Neutral
+Amazing experience using Airbnb's latest release.,Airbnb,28-11-2024,Germany,amazing experience using airbnbs latest release,0.5859,Positive
+Samsung announced a new product today.,Samsung,18-02-2025,USA,samsung announced new product today,0.0,Neutral
+No strong feelings about Facebook either way.,Facebook,02-02-2025,Australia,no strong feelings facebook either way,0.2732,Positive
+Very disappointed with Lenovo this time.,Lenovo,09-07-2025,UK,disappointed lenovo time,-0.4767,Negative
+Samsung's product broke after a week.,Samsung,09-01-2025,Australia,samsungs product broke week,-0.4215,Negative
+Hearing mixed reviews about Amazon.,Amazon,04-05-2025,Canada,hearing mixed reviews amazon,0.1779,Positive
+There's a lot of buzz around Airbnb.,Airbnb,19-09-2024,UK,theres lot buzz around airbnb,0.0,Neutral
+Not buying from Adidas again.,Adidas,29-07-2024,UK,not buying adidas,0.0,Neutral
+Adidas announced a new product today.,Adidas,04-08-2024,Australia,adidas announced new product today,0.0,Neutral
+Uber needs to do better.,Uber,17-04-2025,Australia,uber needs better,0.4902,Positive
+Amazing experience using Lenovo's latest release.,Lenovo,31-03-2025,Australia,amazing experience using lenovos latest release,0.5859,Positive
+Google announced a new product today.,Google,19-05-2025,Canada,google announced new product today,0.0,Neutral
+Terrible experience with Amazon.,Amazon,10-08-2024,Canada,terrible experience amazon,-0.34,Negative
+There's a lot of buzz around Oracle.,Oracle,14-08-2024,Canada,theres lot buzz around oracle,0.0,Neutral
+There's a lot of buzz around Facebook.,Facebook,08-09-2024,Canada,theres lot buzz around facebook,0.0,Neutral
+Very disappointed with Sony this time.,Sony,01-08-2024,Canada,disappointed sony time,-0.4767,Negative
+LinkedIn's product broke after a week.,LinkedIn,02-07-2025,Canada,linkedins product broke week,-0.4215,Negative
+I love the new Pepsi product!,Pepsi,25-01-2025,Germany,love new pepsi product,0.6369,Positive
+Google is setting the standard again.,Google,29-11-2024,Australia,google setting standard,0.0,Neutral
+Very disappointed with Microsoft this time.,Microsoft,10-09-2024,UK,disappointed microsoft time,-0.4767,Negative
+There's a lot of buzz around Zoom.,Zoom,19-12-2024,Germany,theres lot buzz around zoom,0.0,Neutral
+Not buying from Toyota again.,Toyota,08-12-2024,Australia,not buying toyota,0.0,Neutral
+No strong feelings about Google either way.,Google,20-06-2025,Australia,no strong feelings google either way,0.2732,Positive
+Intel announced a new product today.,Intel,05-01-2025,Australia,intel announced new product today,0.0,Neutral
+Another great innovation by Netflix!,Netflix,07-10-2024,USA,another great innovation netflix,0.7717,Positive
+Tesla's product broke after a week.,Tesla,25-02-2025,Australia,teslas product broke week,-0.4215,Negative
+Adidas's product broke after a week.,Adidas,16-12-2024,Germany,adidass product broke week,-0.4215,Negative
+There's a lot of buzz around Oracle.,Oracle,03-07-2025,Canada,theres lot buzz around oracle,0.0,Neutral
+Not buying from YouTube again.,YouTube,25-08-2024,USA,not buying youtube,0.0,Neutral
+Microsoft announced a new product today.,Microsoft,09-01-2025,USA,microsoft announced new product today,0.0,Neutral
+There's a lot of buzz around Apple.,Apple,14-06-2025,Canada,theres lot buzz around apple,0.0,Neutral
+Terrible experience with Apple.,Apple,12-01-2025,Germany,terrible experience apple,-0.4767,Negative
+Hearing mixed reviews about YouTube.,YouTube,12-07-2025,Canada,hearing mixed reviews youtube,0.0,Neutral
+Microsoft really impressed me with their service.,Microsoft,05-10-2024,Germany,microsoft really impressed service,0.5256,Positive
+Spotify really impressed me with their service.,Spotify,14-08-2024,Germany,spotify really impressed service,0.5256,Positive
+Terrible experience with Nike.,Nike,29-01-2025,UK,terrible experience nike,-0.4767,Negative
+Another great innovation by LinkedIn!,LinkedIn,24-03-2025,UK,another great innovation linkedin,0.7717,Positive
+Another great innovation by YouTube!,YouTube,05-02-2025,Germany,another great innovation youtube,0.7717,Positive
+Uber's product broke after a week.,Uber,07-01-2025,UK,ubers product broke week,-0.4215,Negative
+YouTube needs to do better.,YouTube,27-01-2025,Canada,youtube needs better,0.4404,Positive
+Nike really impressed me with their service.,Nike,15-05-2025,Canada,nike really impressed service,0.5256,Positive
+No strong feelings about Zoom either way.,Zoom,28-10-2024,USA,no strong feelings zoom either way,0.2732,Positive
+No strong feelings about LinkedIn either way.,LinkedIn,25-05-2025,Germany,no strong feelings linkedin either way,0.2732,Positive
+No strong feelings about Coca-Cola either way.,Coca-Cola,16-03-2025,Canada,no strong feelings cocacola either way,0.2732,Positive
+Amazon really impressed me with their service.,Amazon,08-03-2025,UK,amazon really impressed service,0.624,Positive
+Amazing experience using Toyota's latest release.,Toyota,07-05-2025,UK,amazing experience using toyotas latest release,0.5859,Positive
+Another great innovation by Uber!,Uber,09-02-2025,UK,another great innovation uber,0.7717,Positive
+Netflix announced a new product today.,Netflix,21-07-2025,UK,netflix announced new product today,0.0,Neutral
+No strong feelings about Facebook either way.,Facebook,15-07-2025,USA,no strong feelings facebook either way,0.2732,Positive
+Toyota is setting the standard again.,Toyota,10-06-2025,Canada,toyota setting standard,0.0,Neutral
+Samsung's product broke after a week.,Samsung,19-06-2025,Australia,samsungs product broke week,-0.4215,Negative
+I love the new Dell product!,Dell,04-08-2024,USA,love new dell product,0.6369,Positive
+Coca-Cola's product broke after a week.,Coca-Cola,22-10-2024,Canada,cocacolas product broke week,-0.4215,Negative
+There's a lot of buzz around Dell.,Dell,27-06-2025,Australia,theres lot buzz around dell,0.0,Neutral
+Coca-Cola really impressed me with their service.,Coca-Cola,11-09-2024,UK,cocacola really impressed service,0.5256,Positive
+Coca-Cola is setting the standard again.,Coca-Cola,06-12-2024,Germany,cocacola setting standard,0.0,Neutral
+There's a lot of buzz around Oracle.,Oracle,16-09-2024,USA,theres lot buzz around oracle,0.0,Neutral
+Starbucks needs to do better.,Starbucks,11-08-2024,Germany,starbucks needs better,0.4404,Positive
+Very disappointed with LinkedIn this time.,LinkedIn,12-07-2025,Germany,disappointed linkedin time,-0.4767,Negative
+Google's product broke after a week.,Google,14-03-2025,USA,googles product broke week,-0.4215,Negative
+Tesla announced a new product today.,Tesla,20-12-2024,Germany,tesla announced new product today,0.0,Neutral
+I love the new Samsung product!,Samsung,21-04-2025,Australia,love new samsung product,0.6369,Positive
+Very disappointed with Google this time.,Google,27-03-2025,Australia,disappointed google time,-0.4767,Negative
+Facebook remains a popular choice.,Facebook,07-09-2024,UK,facebook remains popular choice,0.4215,Positive
+I love the new Facebook product!,Facebook,30-09-2024,Canada,love new facebook product,0.6369,Positive
+Oracle needs to do better.,Oracle,15-07-2025,Germany,oracle needs better,0.4404,Positive
+Intel remains a popular choice.,Intel,11-10-2024,Australia,intel remains popular choice,0.4215,Positive
+Terrible experience with Adidas.,Adidas,13-04-2025,USA,terrible experience adidas,-0.4767,Negative
