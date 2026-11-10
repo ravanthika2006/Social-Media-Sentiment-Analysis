@@ -44,7 +44,7 @@ In today's digital ecosystem, social media platforms serve as the primary arena 
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Manual examination of social media comments is slow, unscalable, and susceptible to subjective bias. Unstructured social text often exhibits:
 1. Significant noise (URLs, punctuation, formatting artifacts).
@@ -55,7 +55,7 @@ This project delivers an automated, reproducible analytical workflow that ingest
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Robust Preprocessing Pipeline:**
   - Case folding (lowercasing).
@@ -77,7 +77,7 @@ This project delivers an automated, reproducible analytical workflow that ingest
 
 ---
 
-## 🛠 Technologies & Libraries
+##  Technologies & Libraries
 
 | Category | Tools / Libraries | Purpose |
 | :--- | :--- | :--- |
@@ -91,7 +91,7 @@ This project delivers an automated, reproducible analytical workflow that ingest
 
 ---
 
-## 🏗 System Architecture & Workflow
+##  System Architecture & Workflow
 
 ```mermaid
 flowchart TD
@@ -109,7 +109,7 @@ flowchart TD
 
 ---
 
-## 📁 Project Directory Structure
+##  Project Directory Structure
 
 ```plaintext
 Social-Media-Sentiment-Analysis/
@@ -135,7 +135,7 @@ Social-Media-Sentiment-Analysis/
 
 ---
 
-## 📊 Dataset Details
+##  Dataset Details
 
 The dataset comprises **600 social media interactions** spanning diverse consumer technology and lifestyle brands (e.g., Apple, Amazon, Microsoft, Nike, Tesla, Samsung, Adidas, Sony, Intel, Dell, BMW, Airbnb).
 
@@ -150,7 +150,7 @@ Key fields analyzed:
 
 ---
 
-## ⚙ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -190,7 +190,7 @@ nltk.download("vader_lexicon")
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Launch Jupyter Notebook or JupyterLab:
 
@@ -202,7 +202,7 @@ Navigate to `jupyter_notebook/sentiment_analysis.ipynb` and run all cells sequen
 
 ---
 
-## 📈 Results & Visualizations
+##  Results & Visualizations
 
 ### 1. Overall Sentiment Distribution
 Analysis across the 600 social media posts demonstrates a predominantly positive consumer sentiment:
@@ -260,7 +260,7 @@ The comparative distribution provides clarity on which brands enjoy high positiv
 
 ---
 
-## 💡 Business Insights & Recommendations
+##  Business Insights & Recommendations
 
 1. **Leverage Launch Momentum:** Positive reception heavily centers around new releases (`new`, `amazing`, `impressed`). Brands should capitalize on launch windows to reinforce user engagement.
 2. **Prioritize Product Reliability:** The prevailing negative terms (`broke`, `terrible`, `disappointed`) indicate that physical reliability failures are the root cause of negative social sentiment. Quality assurance and swift warranty/replacement handling should be top operational priorities.
@@ -276,13 +276,6 @@ The comparative distribution provides clarity on which brands enjoy high positiv
 - [ ] **Live API Streaming:** Connect to live social feeds (Twitter/X API, Reddit API) for automated continuous ingestion.
 
 ---
-
-## 👤 Author & Acknowledgements
-
-- **Author:** **R. Avanthika** (II Year, SRM Institute of Science and Technology, Ramapuram)
-- **Project Domain:** Data Analytics & Natural Language Processing
-- **Industry Mentor:** **Ms. Suman Kumari**, Associate Consultant
-- **Organization:** **Beau Roi Technologies Private Limited**
 
 ---
 
