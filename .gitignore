@@ -44,3 +44,7 @@ credentials.json
 *.log
 *.tmp
 *.bak
+
+# Documents & Reports
+Report.docx
+*.docx

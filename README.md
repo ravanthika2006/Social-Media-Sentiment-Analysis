@@ -27,7 +27,6 @@ An end-to-end Natural Language Processing (NLP) and data analytics pipeline for 
   - [Brand-Level Sentiment Breakdown](#4-brand-level-sentiment-breakdown)
 - [Business Insights & Recommendations](#-business-insights--recommendations)
 - [Future Enhancements](#-future-enhancements)
-- [Author & Acknowledgements](#-author--acknowledgements)
 
 ---
 
@@ -128,7 +127,6 @@ Social-Media-Sentiment-Analysis/
 │   ├── brand_sentiment_distribution.png     # Stacked bar chart for all brands
 │   └── Topbrands_sentiment_distribution.png # Bar chart of top 10 brands
 ├── .gitignore                       # Git exclusion rules for clean version control
-├── Report.docx                      # Formal project documentation report
 ├── requirements.txt                 # Python package dependencies
 └── README.md                        # Project documentation and summary
 ```
